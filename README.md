@@ -4,7 +4,7 @@ A cross-platform IT support toolkit with real-world scripts, checklists, and tro
 
 ## 📁 Folders
 - `docs/` – Step-by-step troubleshooting guides
-- `scripts/` – Real PowerShell & Bash scripts for automation
+- `scripts/` –  PowerShell & Bash scripts for automation
 
 ## 🚀 Features
 ✅ Add admin users (all OS)  
@@ -15,7 +15,7 @@ A cross-platform IT support toolkit with real-world scripts, checklists, and tro
 
 ## 🧠 Why this matters?
 These are **practical tools** that real IT supporters and admins use every day.  
-Created with ❤️ by Sanaz Rezaei – IT Supporter & System Admin Trainee in Denmark.
+Created with ❤️ by Sanaz Rezaei – IT Supporter & System Admin  in Denmark.
 
 ---
 
