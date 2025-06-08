@@ -1,18 +1,22 @@
-# Windows IT Support Toolkit
+# 🌐 IT Support Toolkit – by Sanaz Rezaei
 
-This project contains basic troubleshooting guides and how-to resources for common IT support tasks in a Windows environment.  
-It’s designed to help entry-level IT support specialists and junior system administrators handle everyday issues with confidence.
+A cross-platform IT support toolkit with real-world scripts, checklists, and troubleshooting documentation for Windows, Linux, and macOS environments.
 
-## 🔧 Topics Covered:
-- Installing a printer on Windows
-- Creating a new user account
-- Troubleshooting Microsoft Outlook and Teams
-- Checking network connectivity
-- Daily IT support checklist
+## 📁 Folders
+- `docs/` – Step-by-step troubleshooting guides
+- `scripts/` – Real PowerShell & Bash scripts for automation
 
-## 📌 Author:
-Sanaz Rezaei  
-Aspiring IT Support Specialist | Microsoft 365 & Azure Fundamentals | Based in Denmark
+## 🚀 Features
+✅ Add admin users (all OS)  
+✅ Diagnose and fix network issues  
+✅ Troubleshoot Outlook & Teams  
+✅ Perform daily IT maintenance  
+✅ Automate tasks using PowerShell & Bash
 
-## 📎 Notes:
-All instructions are written in simple English and based on real-life IT scenarios.
+## 🧠 Why this matters?
+These are **practical tools** that real IT supporters and admins use every day.  
+Created with ❤️ by Sanaz Rezaei – IT Supporter & System Admin Trainee in Denmark.
+
+---
+
+> 💼 Use this repo as a portfolio project or real-life toolset to land your next IT job!
